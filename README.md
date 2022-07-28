@@ -12,4 +12,7 @@
 - In the Southern Hemisphere, there is a positive correlation between temperature and latitude.  The correlation between the factors is 0.82
 - In the Northern Hemisphere, there is no or negligible correlation between humidity and latitude.  The correlation between the factors is 0.04
 
-WeatherPy/output_data/reg_temperature_latitude_hemi_s.png
+![markermap](/VacationPy/output_data/markermap.png)
+![reg_temperature_latitude_hemi_s](/WeatherPy/output_data/reg_temperature_latitude_hemi_s.png)
+
+
