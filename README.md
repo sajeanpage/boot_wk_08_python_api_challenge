@@ -13,6 +13,7 @@
 - In the Northern Hemisphere, there is no or negligible correlation between humidity and latitude.  The correlation between the factors is 0.04
 
 ![markermap](/VacationPy/output_data/markermap.png)
-![reg_temperature_latitude_hemi_s](/WeatherPy/output_data/reg_temperature_latitude_hemi_s.png)
+
+![reg_temperature_latitude_hemi_n](/WeatherPy/output_data/reg_temperature_latitude_hemi_n.png)
 
 
